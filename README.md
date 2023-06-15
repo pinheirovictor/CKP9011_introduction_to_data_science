@@ -4,4 +4,4 @@
 
 
 ## Notas
-Este repositório foi criado para documentar o progresso nos trabalhos da disciplina _CKP9011 - Introdução a Ciência de Dados_ da Universidade Federal do Ceará.
+Este repositório foi criado para documentar o progresso nos trabalhos da disciplina _CKP9011 - Introdução a Ciência de Dados_ da Universidade Federal do Ceará
